@@ -36,7 +36,6 @@
 	}
 body 
 	{
-	margin : auto;
 	background-color : #192f49;
 	}
 ul
@@ -108,6 +107,7 @@ th,td
 .images
 	{
 	Text-align: center;
+	
 	}
 .ecart
 	{
@@ -129,5 +129,5 @@ a:hover
 
 .boutonMenu{
 	height: 50px;
-	width: 13.75%;
+	width: 60%;
 }
